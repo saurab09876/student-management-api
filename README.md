@@ -137,16 +137,6 @@ Bearer YOUR_TOKEN
 * JWT Authentication
 * Protected APIs
 
----
-
-## 🚀 Future Improvements
-
-* Role-based authentication
-* Refresh token system
-* Input validation
-* Unit testing
-* Docker support
-* Frontend (React/Angular)
 
 ---
 
